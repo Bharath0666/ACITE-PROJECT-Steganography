@@ -93,25 +93,3 @@ python steganography.py
 
 📄 This project is licensed under the **MIT License** – feel free to modify and share!  
 
----
-
-## 🤝 Contributing  
-
-🔹 **Fork the repository**  
-🔹 **Create a new branch** (`feature-branch`)  
-🔹 **Commit your changes**  
-🔹 **Push to your branch**  
-🔹 **Submit a Pull Request**  
-
----
-
-## 📬 Contact  
-
-✉ **Your Name** – [Your Email]  
-📌 **GitHub** – [Your GitHub Profile]  
-
-🔥 **If you like this project, don’t forget to give it a ⭐ on GitHub!**  
-
----
-
-This README file is now **well-structured, visually appealing, and includes cloning instructions**. 🚀 Let me know if you need any modifications! 😃
